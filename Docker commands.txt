@@ -1,0 +1,1000 @@
+1021  screen -r email
+ 1022  screen -ls
+ 1023  screen -r sms 
+ 1024  ls
+ 1025  less logs/email.txt 
+ 1026  less logs/sms.txt 
+ 1027  screen -r analytics 
+ 1028  less logs/analytics.txt 
+ 1029  screen -r user 
+ 1030  less logs/user.txt 
+ 1031  screen -r dashboard
+ 1032  less logs/dashboard.txt 
+ 1033  screen -ls
+ 1034  screen -r app_notifications 
+ 1035  less logs/notification.txt 
+ 1036  less logs/app_notifications.txt 
+ 1037  screen -r app_notifications 
+ 1038  screen -ls
+ 1039  screen -r master 
+ 1040  less logs/master.txt 
+ 1041  screen -ls
+ 1042  screen -r common 
+ 1043  less logs/common.txt 
+ 1044  screen -r notification 
+ 1045  less logs/notification.txt 
+ 1046  screen -r email 
+ 1047  less logs/email.txt 
+ 1048  screen -r sms 
+ 1049  less logs/sms.txt 
+ 1050  screen -r analytics 
+ 1051  less logs/analytics.txt 
+ 1052  screen -r user 
+ 1053  less logs/user.txt 
+ 1054  screen -r dashboard 
+ 1055  less logs/dashboard.txt 
+ 1056  screen -r app_notifications 
+ 1057  less logs/app_notifications.txt 
+ 1058  screen -r app_notifications 
+ 1059  less logs/app_notifications.txt 
+ 1060  screen -r app_notifications 
+ 1061  screen -r bulk_notification 
+ 1062  screen -r app_notifications 
+ 1063  less logs/app_notifications.txt 
+ 1064  screen -r bulk_notification 
+ 1065  less logs/bulk_notification.txt 
+ 1066  docker ps
+ 1067  less logs/bulk_notification.txt 
+ 1068  less logs/user.txt 
+ 1069  screen -ls
+ 1070  screen -r bulk_notification 
+ 1071  less logs/bulk_notification.txt 
+ 1072  screen -r bulk_notification 
+ 1073  less logs/bulk_notification.txt 
+ 1074  screen -r bulk_notification 
+ 1075  ls
+ 1076  less logs/bulk_notification.txt 
+ 1077  screen -r bulk_notification 
+ 1078  less logs/bulk_notification.txt 
+ 1079  less logs/app_notifications.txt 
+ 1080  screen -r general_contractor 
+ 1081  less logs/general_contractor.txt 
+ 1082  screen -r general_contractor 
+ 1083  screen -r general_contractor 
+ 1084  less logs/general_contractor.txt 
+ 1085  screen -r general_contractor 
+ 1086  less logs/general_contractor.txt 
+ 1087  screen -ls
+ 1088  less logs/app_notifications.txt 
+ 1089  less logs/bulk_notification.txt 
+ 1090  less logs/general_contractor.txt 
+ 1091  docker ps | grep general
+ 1092  screen -ls
+ 1093  screen -r sub_contractor 
+ 1094  less logs/sub_contractor.txt 
+ 1095  screen -ls
+ 1096  screen -r projects 
+ 1097  less logs/projects.txt 
+ 1098  screen -ls
+ 1099  screen -r projects
+ 1100  less logs/projects.txt 
+ 1101  screen -r projects
+ 1102  screen -r supply 
+ 1103  screen -ls
+ 1104  screen -r projects 
+ 1105  screen -ls
+ 1106  less logs/projects.txt 
+ 1107  screen -r supply 
+ 1108  less logs/supply.txt 
+ 1109  screen -r supply 
+ 1110  less logs/supply.txt 
+ 1111  screen -r requisition 
+ 1112  screen -r supply 
+ 1113  less logs/supply.txt 
+ 1114  screen -r supply 
+ 1115  less logs/supply.txt 
+ 1116  less logs/master.txt 
+ 1117  sh docker-down.sh 
+ 1118  screen -r dashboard 
+ 1119  screen -r app_notifications 
+ 1120  screen -r bulk_notification 
+ 1121  screen -r general_contractor 
+ 1122  screen -r sub_contractor 
+ 1123  screen -r projects 
+ 1124  screen -r supply 
+ 1125  screen -r requisition 
+ 1126  screen -r gateway 
+ 1127  screen -r dashboard 
+ 1128  less logs/dashboard.txt 
+ 1129  screen -r app_notifications 
+ 1130  screen -r supply 
+ 1131  screen -r app_notifications 
+ 1132  screen -r bulk_notification 
+ 1133  screen -r general_contractor 
+ 1134  screen -r sub_contractor 
+ 1135  screen -r projects 
+ 1136  screen -r requisition 
+ 1137  screen -r supply 
+ 1138  screen -r gateway 
+ 1139  screen -r app_notifications 
+ 1140  screen -r bulk_notification 
+ 1141  screen -r general_contractor 
+ 1142  screen -r sub_contractor 
+ 1143  screen -r projects 
+ 1144  screen -r requisition 
+ 1145  screen -r supply 
+ 1146  screen -r gateway 
+ 1147  screen -r app_notifications 
+ 1148  less logs/app_notifications.txt 
+ 1149  screen -r bulk_notification 
+ 1150  less logs/bulk_notification.txt 
+ 1151  screen -r general_contractor 
+ 1152  less logs/general_contractor.txt 
+ 1153  screen -r sub_contractor 
+ 1154  less logs/sub_contractor.txt 
+ 1155  screen -r projects 
+ 1156  less logs/projects.txt 
+ 1157  screen -r supply 
+ 1158  less logs/supply.txt 
+ 1159  screen -r supply 
+ 1160  screen -r projects 
+ 1161  less logs/email.txt 
+ 1162  screen -r supply 
+ 1163  less logs/email.txt 
+ 1164  screen -r supply 
+ 1165  less logs/supply.txt 
+ 1166  screen -r supply 
+ 1167  less logs/supply.txt 
+ 1168  screen -r requisition 
+ 1169  less logs/requistiion.txt 
+ 1170  screen -r requisition 
+ 1171  less logs/master.txt 
+ 1172  less logs/requistiion.txt 
+ 1173  screen 
+ 1174  less logs/gateway.txt 
+ 1175  ls
+ 1176  screen -ls
+ 1177  screen -r user 
+ 1178  less logs/user.txt 
+ 1179  screen -r sms 
+ 1180  screen -ls
+ 1181  screen -d app_notifications 
+ 1182  screen -r app_notifications 
+ 1183  screen -ls
+ 1184  screen -r app_notifications 
+ 1185  screen -r bulk_notification 
+ 1186  screen -r general_contractor 
+ 1187  screen -r sub_contractor 
+ 1188  screen -r projects 
+ 1189  screen -r supply 
+ 1190  screen -r requisition 
+ 1191  screen -r gateway 
+ 1192  screen -r ui 
+ 1193  screen -r master 
+ 1194  screen -r common 
+ 1195  screen -r notification 
+ 1196  screen -r email 
+ 1197  screen -r sms 
+ 1198  screen -r analytics 
+ 1199  screen -r user 
+ 1200  screen -r dashboard 
+ 1201  screen -r app_notifications 
+ 1202  screen -r bulk_notification 
+ 1203  screen -r general_contractor 
+ 1204  screen -r sub_contractor 
+ 1205  screen -r projects 
+ 1206  screen -r supply 
+ 1207  screen -r requisition 
+ 1208  screen -r gateway 
+ 1209  screen -r ui 
+ 1210  screen -r master 
+ 1211  htop
+ 1212  screen -r master 
+ 1213  cd test/prod_delta/logs/
+ 1214  ls
+ 1215  cd ..
+ 1216  ls
+ 1217  docker network inspect eforce_v2_prod_delta
+ 1218  docker network ls
+ 1219  docker network create eforce_v2_prod_delta
+ 1220  ls
+ 1221  screen -ls
+ 1222  screen -r master 
+ 1223  screen -r common 
+ 1224  screen -r notification 
+ 1225  screen -r email 
+ 1226  screen -r sms 
+ 1227  screen -r analytics 
+ 1228  screen -r user 
+ 1229  screen -r dashboard 
+ 1230  screen -r app_notifications 
+ 1231  screen -r bulk_notification 
+ 1232  screen -r general_contractor 
+ 1233  screen -r sub_contractor 
+ 1234  screen -r projects 
+ 1235  screen -r supply 
+ 1236  screen -r requisition 
+ 1237  screen -r gateway 
+ 1238  screen -r ui 
+ 1239  screen -r master 
+ 1240  docker network inspect eforce_v2_prod_delta 
+ 1241  docker network inspect eforce_v2_prod_delta | grep project
+ 1242  docker network inspect eforce_v2_prod_delta
+ 1243  docker network inspect eforce_v2_prod_delta > logs/network.txt
+ 1244  cd logs/
+ 1245  ls
+ 1246  ls | grep network.txt 
+ 1247  docker network inspect eforce_v2_prod_delta > logs/network.txt
+ 1248  docker network inspect eforce_v2_prod_delta > network.txt
+ 1249  less network.txt 
+ 1250  less network.txt | grep supply
+ 1251  cat network.txt | grep supply
+ 1252  cat network.txt | grep su
+ 1253  docker network inspect eforce_v2_prod_delta > network.txt
+ 1254  cat network.txt | grep su
+ 1255  docker network inspect eforce_v2_prod_delta
+ 1256  docker network inspect eforce_v2_prod_delta | grep supply
+ 1257  docker network inspect eforce_v2_prod_delta > network.txt
+ 1258  screen -r supply 
+ 1259  docker network inspect eforce_v2_prod_delta > network.txt
+ 1260  cd test/prod_delta/
+ 1261  ls
+ 1262  cd logs/
+ 1263  ls
+ 1264  watch -n 1 ls -ltrh
+ 1265  sudo su
+ 1266  watch -n 1 ls -ltrh
+ 1267  cd /home/eforce-v2/
+ 1268  ls
+ 1269  cd ..
+ 1270  ls
+ 1271  cd eforce-v2/
+ 1272  cd ../moses
+ 1273  ls
+ 1274  cd bkp
+ 1275  ls
+ 1276  cd ../..
+ 1277  cd eforce-v2/
+ 1278  cd ../captech/
+ 1279  ls
+ 1280  cd ../eforce-v2/
+ 1281  lks
+ 1282  ls
+ 1283  .
+ 1284  ls -a
+ 1285  cd ..
+ 1286  ls
+ 1287  cd test
+ 1288  cd ..
+ 1289  cd test
+ 1290  ls
+ 1291  cd prod_delta/
+ 1292  ls
+ 1293  cd eforce_user/
+ 1294  docker-compose -f docker-compose-prod_delta.yaml up
+ 1295  cd eforce_user/
+ 1296  cd settings/
+ 1297  ls
+ 1298  nano prod_delta.py 
+ 1299  cd ../..
+ 1300  docker-compose -f docker-compose-prod_delta.yaml up
+ 1301  cd test/
+ 1302  ls
+ 1303  cd prod_delta/eforce_user/
+ 1304  docker-compose -f docker-compose-prod_delta.yaml up
+ 1305  docker network inspect eforce_v2_prod_delta 
+ 1306  docker-compose -f docker-compose-prod_delta.yaml up -d
+ 1307  cd test/prod_delta/
+ 1308  ls
+ 1309  cd logs/
+ 1310  ls
+ 1311  docker network inspect eforce_v2_prod_delta
+ 1312  docker network inspect eforce_v2_prod_delta < network.txt
+ 1313  docker network inspect eforce_v2_prod_delta << network.txt
+ 1314  ;
+ 1315  docker network inspect eforce_v2_prod_delta < network.txt
+ 1316  docker network inspect eforce_v2_prod_delta > network.txt
+ 1317  screen -r user
+ 1318  screen -d user
+ 1319  screen -r user
+ 1320  docker network inspect eforce_v2_prod_delta > network.txt
+ 1321  screen -ls
+ 1322  screen -r master 
+ 1323  docker network inspect eforce_v2_prod_delta > network.txt
+ 1324  docker network inspect eforce_v2_prod_delta
+ 1325  screen -ls
+ 1326  screen -r notification 
+ 1327  screen -ls
+ 1328  screen -r email 
+ 1329  screen -ls
+ 1330  screen -r sms 
+ 1331  screen -r analytics 
+ 1332  docker network inspect eforce_v2_prod_delta > network.txt
+ 1333  screen -ls
+ 1334  screen -r dashboard 
+ 1335  docker network inspect eforce_v2_prod_delta > network.txt
+ 1336  screen -ls
+ 1337  screen -r app_notifications 
+ 1338  screen -r bulk_notification 
+ 1339  screen -r general_contractor 
+ 1340  screen -r sub_contractor 
+ 1341  screen -ls
+ 1342  screen -r projects 
+ 1343  screen -r supply 
+ 1344  screen -r requisition 
+ 1345  screen -r gateway 
+ 1346  htop
+ 1347  cd ..
+ 1348  ls
+ 1349  cd eforce_user/
+ 1350  ls
+ 1351  git push
+ 1352  git status
+ 1353  git add .
+ 1354  git commit -m "Commit prod_delta"
+ 1355  branch
+ 1356  git branch
+ 1357  git commit -m "Commit prod_delta"
+ 1358  git config --global user.email "moses.arepelli@cap-tech.in"
+ 1359  git config --global user.name "Moses3014"
+ 1360  git commit -m "Commit prod_delta"
+ 1361  git push
+ 1362  cd ..
+ 1363  ls
+ 1364  cd eforce_master/
+ 1365  git status
+ 1366  git add .
+ 1367  git commit -m "prod_delta"
+ 1368  git push
+ 1369  cd ..
+ 1370  ls
+ 1371  eforce_common/
+ 1372  ls
+ 1373  git status
+ 1374  cd eforce_common/
+ 1375  ls
+ 1376  git status
+ 1377  git add .
+ 1378  git commit -m "prod_delta"
+ 1379  git push
+ 1380  cd ..
+ 1381  ls
+ 1382  cd eforce_notification/
+ 1383  ls
+ 1384  git status
+ 1385  git add .
+ 1386  git commit -m "prod_delta"
+ 1387  git push
+ 1388  cd ..
+ 1389  ls
+ 1390  cd eforce_email/
+ 1391  ls
+ 1392  git status
+ 1393  git add .
+ 1394  git commit -m "prod_delta"
+ 1395  git status
+ 1396  git push
+ 1397  cd ../eforce_sms/
+ 1398  git status
+ 1399  git add .
+ 1400  git commit -m "prod_delta"
+ 1401  git push
+ 1402  cd ../eforce_analytics/
+ 1403  git status
+ 1404  git add .
+ 1405  git commit -m "prod_delta"
+ 1406  git push
+ 1407  cd ../eforce_dashboard/
+ 1408  git status
+ 1409  git add .
+ 1410  git commit -m "prod_delta"
+ 1411  git push
+ 1412  cd ../eforce_user/
+ 1413  git status
+ 1414  git add .
+ 1415  git commit -m "prod_delta"
+ 1416  git push
+ 1417  cd ../eforce_app_notifications/
+ 1418  git status
+ 1419  git add .
+ 1420  git commit -m "prod_delta"
+ 1421  git push
+ 1422  cd ../eforce_bulk_notification/
+ 1423  git status
+ 1424  git add .
+ 1425  git commit -m "prod_delta"
+ 1426  git push
+ 1427  cd ../eforce_general_contractor/
+ 1428  git status
+ 1429  git add .
+ 1430  git commit -m "prod_delta"
+ 1431  git push
+ 1432  cd ../eforce_sub_contractor/
+ 1433  git status
+ 1434  git add .
+ 1435  git commit -m "prod_delta"
+ 1436  git push
+ 1437  cd ../eforce_projects/
+ 1438  git status
+ 1439  git add .
+ 1440  git commit -m "prod_delta"
+ 1441  git push
+ 1442  cd ../eforce_supply/
+ 1443  git status
+ 1444  git add .
+ 1445  git commit -m "prod_delta"
+ 1446  git push
+ 1447  cd ../eforce_requisition/
+ 1448  git status
+ 1449  git add .
+ 1450  git commit -m "prod_delta"
+ 1451  git push
+ 1452  cd ../eforce_gateway/
+ 1453  ls
+ 1454  git status
+ 1455  git add .
+ 1456  git commit "prod_delta"
+ 1457  git commit -m "prod_delta"
+ 1458  git push
+ 1459  cd ../eForce_ui/
+ 1460  git status
+ 1461  git add .
+ 1462  git commit -m "prod_delta"
+ 1463  git push
+ 1464  cd ..
+ 1465  ls
+ 1466  ls | grep whats
+ 1467  git clone https://github.com/Captech-Technologies-Pvt-Ltd/eforce_whatsapp.git -b prod_delta
+ 1468  ls | grep whats
+ 1469  cd eforce_
+ 1470  cd eforce_whatsapp/
+ 1471  cp docker-compose-prod.yml docker-compose-prod_delta.yaml
+ 1472  git status
+ 1473  git add .
+ 1474  git commit -m "prod_delta"
+ 1475  git push
+ 1476  docekr ps
+ 1477  docker ps
+ 1478  cd ..
+ 1479  ls
+ 1480  screen -ls
+ 1481  screen -r user 
+ 1482  docker ps | grep user
+ 1483  screen -ls
+ 1484  screen -r user 
+ 1485  docker ps | user
+ 1486  docker ps | grep user
+ 1487  ls
+ 1488  docker ps
+ 1489  cd eforce_user/
+ 1490  ls
+ 1491  git pull
+ 1492  docker ps | grep user
+ 1493  cd ..
+ 1494  ls
+ 1495  cd logs/
+ 1496  ls
+ 1497  SUDO SU
+ 1498  sudo su
+ 1499  docker ps | grep requisition
+ 1500  docker ps | grep projects
+ 1501  ls
+ 1502  cd test/
+ 1503  ls
+ 1504  cd prod_delta/
+ 1505  s
+ 1506  ls
+ 1507  docker ps | grep user
+ 1508  docker network inspect eforce_v2_prod_delta
+ 1509  cd logs/
+ 1510  ls
+ 1511  docker network inspect eforce_v2_prod_delta < network.txt
+ 1512  docker ps | grep common
+ 1513  cd ..
+ 1514  ls
+ 1515  screen -ls
+ 1516  screen -r common 
+ 1517  cd logs/ #docker network inspect eforce_v2_prod_delta < network.txt
+ 1518  docker network inspect eforce_v2_prod_delta < network.txt
+ 1519  ls
+ 1520  docker network inspect eforce_v2_prod_delta < network.txt
+ 1521  docker network inspect eforce_v2_prod_delta
+ 1522  docker network inspect eforce_v2_prod_delta < network.txt
+ 1523  screen -r user 
+ 1524  htop
+ 1525  top
+ 1526  cd test/prod_delta/eforce_projects/
+ 1527  git pull
+ 1528  git stash
+ 1529  git pull
+ 1530  docker-compose -f docker-compose-prod_delta.yaml build
+ 1531  docker-compose -f docker-compose-prod_delta.yaml up
+ 1532  git pull
+ 1533  docker-compose -f docker-compose-prod_delta.yaml up
+ 1534  docker network inspect eforce_v2_prod_delta 
+ 1535  cd /test
+ 1536  ls
+ 1537  cd ..
+ 1538  cd ls
+ 1539  ls
+ 1540  cd ../test
+ 1541  ls
+ 1542  cd moses/
+ 1543  ls
+ 1544  cd test/
+ 1545  ls
+ 1546  cd prod_delta/eforce_requisition/
+ 1547  docker-compose -f docker-compose-prod_delta.yaml build
+ 1548  docker-compose -f docker-compose-prod_delta.yaml up
+ 1549  watch -n 1 ls -ltrh
+ 1550  docker-compose -f eForce_ui/docker-compose-prod_delta.yaml build --no-cache
+ 1551  docker-compose -f eForce_ui/docker-compose-prod_delta.yaml up > logs/ui.txt
+ 1552  docker-compose -f eForce_ui/docker-compose-prod_delta.yaml build --no-cache
+ 1553  docker-compose -f eForce_ui/docker-compose-prod_delta.yaml up > logs/ui.txt
+ 1554  docker-compose -f eForce_ui/docker-compose-prod_delta.yaml down -v
+ 1555  cd eForce_ui/
+ 1556  ls
+ 1557  git branch
+ 1558  docker ps | grep whatsapp
+ 1559  screen -ls
+ 1560  screen -ls | grep whatsapp
+ 1561  cd ..
+ 1562  ls
+ 1563  cd eforce_whatsapp/
+ 1564  ls
+ 1565  screen -S whatsapp
+ 1566  cd ..
+ 1567  ls
+ 1568  cd eForce_ui/
+ 1569  ls
+ 1570  docker ps | grep ui
+ 1571  docker-compose -f eForce_ui/docker-compose-prod_delta.yaml down -v
+ 1572  cd ..
+ 1573  docker-compose -f eForce_ui/docker-compose-prod_delta.yaml down -v
+ 1574  docker-compose -f eForce_ui/docker-compose-prod_delta.yaml build --no-cache
+ 1575  docker-compose -f eForce_ui/docker-compose-prod_delta.yaml up > logs/ui.txt
+ 1576  docker-compose -f eForce_ui/docker-compose-prod_delta.yaml down -v
+ 1577  screen -ls
+ 1578  screen -d ui 
+ 1579  screen -r ui
+ 1580  screen -ls
+ 1581  screen -d ui
+ 1582  screen -ls
+ 1583  docker-compose -f eForce_ui/docker-compose-prod_delta.yaml up > logs/ui.txt
+ 1584  docker-compose -f eForce_ui/docker-compose-prod_delta.yaml up
+ 1585  screen -ls
+ 1586  exit
+ 1587  ls
+ 1588  pwd
+ 1589  cd test/prod_delta/
+ 1590  ls
+ 1591  ls | grep down
+ 1592  which screen
+ 1593  screen -v
+ 1594  screen -ls
+ 1595  screen -S demo
+ 1596  screen -ls
+ 1597  screen -r demo
+ 1598  screen -r 214883
+ 1599  screen -ls
+ 1600  screen -r demo
+ 1601  screen -ls
+ 1602  screen -r demo
+ 1603  screen -ls
+ 1604  screen -r sub_contractor 
+ 1605  screen -r gateway 
+ 1606  docker ps
+ 1607  screen -r gateway 
+ 1608  cd eforce_projects/
+ 1609  ls
+ 1610  git pull
+ 1611  cd ..
+ 1612  ls
+ 1613  docker -ls
+ 1614  screen -ls
+ 1615  screen -r supply 
+ 1616  docker ps | grep supply
+ 1617  screen -r supply 
+ 1618  docker ps
+ 1619  docker images
+ 1620  screen -r ui 
+ 1621  docker ps | grep ui
+ 1622  docker ps | grep eFo
+ 1623  dockerps
+ 1624  docker ps
+ 1625  screen -ls
+ 1626  screen -r ui 
+ 1627  docker ps | ui
+ 1628  docker ps | grep ui
+ 1629  docker volume ls
+ 1630  docker network ls
+ 1631  cd eForce_ui/
+ 1632  ls
+ 1633  docker build --help
+ 1634  ls
+ 1635  docker ps 
+ 1636  docker ps -a
+ 1637  ls
+ 1638  cd ..
+ 1639  ls
+ 1640  screen -r ui 
+ 1641  screen -ls
+ 1642  screen -d whatsapp 
+ 1643  screen -r whatsapp 
+ 1644  screen -r ui 
+ 1645  screen -r whatsapp 
+ 1646  docker ps | grep ui
+ 1647  docker ps | grep whats
+ 1648  docker ps | grep whatsapp
+ 1649  screen -r whatsapp 
+ 1650  docker ps -a | grep whats
+ 1651  screen -r whatsapp 
+ 1652  screen -r ui 
+ 1653  screen -r ui
+ 1654  screen -ls
+ 1655  screen -r ui 
+ 1656  ls
+ 1657  docker ps | grep what
+ 1658  docker ps | grep whatsapp
+ 1659  docker ps -a | grep whatsapp
+ 1660  screen -r ui 
+ 1661  docker ps -a | grep whatsapp
+ 1662  docker ps | grep whatsapp
+ 1663  screen -r ui 
+ 1664  screen -ls
+ 1665  screen -S ui
+ 1666  screen -r whatsapp 
+ 1667  screen -r ui 
+ 1668  screen -r whatsapp 
+ 1669  screen -r ui 
+ 1670  screen -r whatsapp 
+ 1671  cd eforce_whatsapp/
+ 1672  git pull
+ 1673  screen -r whatsapp 
+ 1674  screen -r ui 
+ 1675  screen -r whatsapp 
+ 1676  docker ps | grep whatsapp/
+ 1677  docker ps | grep whatsapp
+ 1678  docker ps | grep ui
+ 1679  screen -ls
+ 1680  cd ..
+ 1681  ls
+ 1682  cd eForce_ui/
+ 1683  ls
+ 1684  git pull
+ 1685  screen -ls
+ 1686  screen -r ui 
+ 1687  docker ps
+ 1688  docker -ls
+ 1689  screen -r app_notifications 
+ 1690  screen -r notification 
+ 1691  screen -ls
+ 1692  screen -r gateway 
+ 1693  screen -r requisition 
+ 1694  screen -ls
+ 1695  screen -r supply 
+ 1696  screen -r requisition 
+ 1697  screen -r projects 
+ 1698  screen -ls
+ 1699  screen -r supply 
+ 1700  docker network inspect eforce_v2_prod_delta
+ 1701  screen -ls
+ 1702  screen -r whatsapp 
+ 1703  screen -ls
+ 1704  screen -d requisition 
+ 1705  screen -ls
+ 1706  screen -r whatsapp 
+ 1707  cd ..
+ 1708  ls
+ 1709  sh docker-down.sh 
+ 1710  cd eforce_whatsapp/
+ 1711  cd ..
+ 1712  ls
+ 1713  docker-compose -f eforce_master/docker-compose-prod_delta.yaml build -d
+ 1714  less docker-up.sh 
+ 1715  sh docker-up.sh 
+ 1716  docker system prune -a -f
+ 1717  htop
+ 1718  docker ps -a
+ 1719  docker images
+ 1720  docker ps -a
+ 1721  docker volume ls
+ 1722  docker network ls
+ 1723  docker network create eforce_v2_prod_delta
+ 1724  docker network inspect eforce_v2_prod_delta 
+ 1725  cd /etc/docker/
+ 1726  ls
+ 1727  less key.json 
+ 1728  sudo su
+ 1729  docker network inspect eforce_v2_prod_delta 
+ 1730  docker network rm eforce_v2_prod_delta 
+ 1731  docker network ls
+ 1732  docker network create --subnet=172.18.0.0/16 --gateway=172.18.0.1 eforce_v2_prod_delta
+ 1733  docker network inspect eforce_v2_prod_delta 
+ 1734  screen -ls
+ 1735  screen -S docker-build
+ 1736  screen -ls
+ 1737  screen -r master 
+ 1738  screen -r common 
+ 1739  screen -r notification 
+ 1740  screen -r master 
+ 1741  screen -r email 
+ 1742  screen -r sms 
+ 1743  screen -r analytics 
+ 1744  screen -r user 
+ 1745  screen -r dashboard 
+ 1746  screen -r app_notifications 
+ 1747  screen -r bulk_notification 
+ 1748  screen -r general_contractor 
+ 1749  screen -r sub_contractor 
+ 1750  screen -r projects 
+ 1751  screen -r supply 
+ 1752  screen -r requisition 
+ 1753  screen -r gateway 
+ 1754  screen -r ui 
+ 1755  screen -r whatsapp 
+ 1756  screen -r docker-build 
+ 1757  screen -ls
+ 1758  docker images
+ 1759  screen -r docker-build 
+ 1760  screen -r master 
+ 1761  docker ps
+ 1762  screen -r common 
+ 1763  docker ps
+ 1764  screen -r notification 
+ 1765  docker ps
+ 1766  screen -r email 
+ 1767  docker ps
+ 1768  screen -r analytics 
+ 1769  docker ps
+ 1770  screen -r user 
+ 1771  docker ps
+ 1772  screen -r user 
+ 1773  screen -r dashboard 
+ 1774  screen -r app_notifications 
+ 1775  screen -r bulk_notification 
+ 1776  screen -r general_contractor 
+ 1777  screen -r sub_contractor 
+ 1778  screen -r projects 
+ 1779  screen -r supply 
+ 1780  screen -r requisition 
+ 1781  screen -r gateway 
+ 1782  screen -r ui 
+ 1783  screen -r whatsapp 
+ 1784  docker ps
+ 1785  cd ~/test/
+ 1786  ls
+ 1787  cd prod_delta/
+ 1788  ls
+ 1789  docker network inspect eforce_v2_prod_delta > logs/network.txt
+ 1790  docker ps | grep sms
+ 1791  screen -ls
+ 1792  docker network inspect eforce_v2_prod_delta > logs/network.txt
+ 1793  sh docker-down.sh 
+ 1794  docke ps
+ 1795  docker ps
+ 1796  docker ps -a
+ 1797  screen -r master 
+ 1798  screen -r common 
+ 1799  screen -r notification 
+ 1800  screen -r sms 
+ 1801  screen -r analytics 
+ 1802  screen -r user 
+ 1803  screen -r dashboard 
+ 1804  screen -r app_notifications 
+ 1805  screen -r bulk_notification 
+ 1806  screen -r general_contractor 
+ 1807  screen -r sub_contractor 
+ 1808  screen -r projects 
+ 1809  screen -r supply 
+ 1810  screen -r requisition 
+ 1811  screen -r gateway 
+ 1812  screen -r ui 
+ 1813  screen -r whatsapp 
+ 1814  docker network inspect eforce_v2_prod_delta > logs/network.txt
+ 1815  sh docker-down.sh 
+ 1816  sh docker-up.sh 
+ 1817  docker-compose -f eforce_whatsapp/docker-compose-prod_delta.yaml up -d
+ 1818  docker ps
+ 1819  docker network inspect eforce_v2_prod_delta > logs/network.txt
+ 1820  docker ps
+ 1821  docker ps | grep app
+ 1822  docker-compose -f eforce_app_notifications/docker-compose-prod_delta.yaml down -v
+ 1823  docker-compose -f eforce_app_notifications/docker-compose-prod_delta.yaml up -d
+ 1824  sh docker-down.sh 
+ 1825  sh docker-up.sh 
+ 1826  docker network inspect eforce_v2_prod_delta > logs/network.txt
+ 1827  docker network inspect eforce_v2_prod_delta
+ 1828  docker network inspect eforce_v2_prod_delta | grep notification
+ 1829  docker ps -a
+ 1830  docker ps | grep notification
+ 1831  docker ps -a | grep notification
+ 1832  sh docker-down.sh 
+ 1833  docker-compose -f eforce_app_notifications/docker-compose-prod_delta.yaml up -d
+ 1834  docker-compose -f eforce_app_notifications/docker-compose-prod_delta.yaml down -v
+ 1835  docker-compose -f eforce_app_notifications/docker-compose-prod_delta.yaml up
+ 1836  docker-compose -f eforce_app_notifications/docker-compose-prod_delta.yaml build --no-cache
+ 1837  docker-compose -f eforce_app_notifications/docker-compose-prod_delta.yaml up
+ 1838  docker-compose -f eforce_app_notifications/docker-compose-prod_delta.yaml down -v
+ 1839  sh docker-down.sh 
+ 1840  docker-compose -f eforce_app_notifications/docker-compose-prod_delta.yaml up
+ 1841  docker-compose -f eforce_app_notifications/docker-compose-prod_delta.yaml down -v
+ 1842  sh docker-down.sh 
+ 1843  sh docker-up.sh 
+ 1844  docker ps -a
+ 1845  docker network inspect eforce_v2_prod_delta > logs/network.txt
+ 1846  docker ps -a
+ 1847  docker-compose -f eforce_general_contractor/docker-compose-prod_delta.yaml down -v
+ 1848  docker-compose -f eforce_general_contractor/docker-compose-prod_delta.yaml up
+ 1849  docker-compose -f eforce_general_contractor/docker-compose-prod_delta.yaml build --no-cache
+ 1850  sh docker-down.sh 
+ 1851  sh docker-up.sh 
+ 1852  docker network inspect eforce_v2_prod_delta > logs/network.txt
+ 1853  ls
+ 1854  ls -ltrh
+ 1855  cd captech_website_v2/
+ 1856  ls
+ 1857  git pull
+ 1858  docker network create captech_v2_prod_delta
+ 1859  docker-compose -f docker-compose-prod_delta.yaml build --no-cache
+ 1860  docker-compose -f docker-compose-prod_delta.yaml up
+ 1861  docker-compose -f docker-compose-prod_delta.yaml build --no-cache
+ 1862  docker-compose -f docker-compose-prod_delta.yaml up
+ 1863  docker-compose -f docker-compose-prod_delta.yaml build --no-cache
+ 1864  docker-compose -f docker-compose-prod_delta.yaml up
+ 1865  docker ps
+ 1866  docker ps -a
+ 1867  cd test/prod_delta/
+ 1868  ls
+ 1869  cd eforce_bulk_notification/
+ 1870  ls
+ 1871  docker-compose -f docker-compose-prod_delta.yaml down -v
+ 1872  docker-compose -f docker-compose-prod_delta.yaml build --no-cache
+ 1873  docker-compose -f docker-compose-prod_delta.yaml up
+ 1874  docker-compose -f docker-compose-prod_delta.yaml down -v
+ 1875  docker-compose -f docker-compose-prod_delta.yaml down up -d
+ 1876  docker-compose -f docker-compose-prod_delta.yaml up -d
+ 1877  cd test
+ 1878  cd prod_delta/eforce_bulk_notification/
+ 1879  docker-compose -f docker-compose-prod_delta.yaml up
+ 1880  docker-compose -f docker-compose-prod_delta.yaml build --no-cache
+ 1881  nano requirements.txt 
+ 1882  docker-compose -f docker-compose-prod_delta.yaml build --no-cache
+ 1883  docker-compose -f docker-compose-prod_delta.yaml up
+ 1884  cd test/prod_delta/eforce_bulk_notification/
+ 1885  docker-compose -f docker-compose-prod_delta.yaml up
+ 1886  docker-compose -f docker-compose-prod_delta.yaml build
+ 1887  git pull
+ 1888  git stash
+ 1889  git pull
+ 1890  docker-compose -f docker-compose-prod_delta.yaml build
+ 1891  git pull
+ 1892  docker-compose -f docker-compose-prod_delta.yaml build
+ 1893  docker-compose -f docker-compose-prod_delta.yaml up
+ 1894  cd test/prod_delta/eforce_general_contractor/
+ 1895  ls
+ 1896  cd gc_user/serializers/
+ 1897  ls
+ 1898  nano gc_company.py 
+ 1899  cd test/prod_delta/eforce_general_contractor/gc_user/serializers/
+ 1900  nano gc_company.py 
+ 1901  cd ..
+ 1902  nano utils.py 
+ 1903  cd test/prod_delta/eforce_general_contractor/gc_user/serializers/
+ 1904  nano gc_company.py 
+ 1905  cd ..
+ 1906  ls
+ 1907  nano utils.py 
+ 1908  docker-compose -f docker-compose-prod_delta.yaml up
+ 1909  cd ..
+ 1910  docker-compose -f docker-compose-prod_delta.yaml up
+ 1911  docker-compose -f docker-compose-prod_delta.yaml build
+ 1912  docker-compose -f docker-compose-prod_delta.yaml up
+ 1913  ls
+ 1914  docker ps
+ 1915  docker ps -a
+ 1916  docker ps -a | grep bulk
+ 1917  screen -r bulk_notification 
+ 1918  screen -r user 
+ 1919  screen -r bulk_notification 
+ 1920  screen -r projects
+ 1921  docker ps | grep project
+ 1922  screen -r bulk_notification 
+ 1923  screen -r user 
+ 1924  screen -ls
+ 1925  ls
+ 1926  cd test/prod_delta/
+ 1927  ls
+ 1928  exit
+ 1929  cd ~/test/prod_delta/
+ 1930  ls
+ 1931  sh docker-down.sh 
+ 1932  sh docker-up.sh 
+ 1933  uname -a
+ 1934  utop
+ 1935  htop
+ 1936  top
+ 1937  ls
+ 1938  cd test/prod_delta/
+ 1939  ls
+ 1940  less docker-up.sh 
+ 1941  top
+ 1942  cd test/prod_delta/
+ 1943  touch docker-build-no-cache.sh
+ 1944  touch docker-build.sh
+ 1945  docker ps
+ 1946  docker ps -a
+ 1947  screen -ls
+ 1948  touch network-create.sh
+ 1949  docker network inspect eforce_v2_prod_delta 
+ 1950  docker system prune -a -f
+ 1951  sh docker-down.sh 
+ 1952  docker system prune -a -f
+ 1953  docker volume ls
+ 1954  docker volume prune
+ 1955  docker network ls
+ 1956  docker network prune
+ 1957  docker network prune -a
+ 1958  docker network prune
+ 1959  docker network ls
+ 1960  docker system prune -a
+ 1961  docker images
+ 1962  docker ps -a
+ 1963  docker system prune -a
+ 1964  docker ps -a
+ 1965  docker system prune -a -f
+ 1966  docker ps -a
+ 1967  docker images
+ 1968  docker rmi ed28df8359cf
+ 1969  docker ps
+ 1970  cdd captech_website_v2/
+ 1971  cd captech_website_v2/
+ 1972  ls
+ 1973  docker-compose -f docker-compose-prod_delta.yaml down -v
+ 1974  cd ..
+ 1975  ls
+ 1976  pwd
+ 1977  ls
+ 1978  docker network ls
+ 1979  docker system prune -a -f
+ 1980  docker volume ls
+ 1981  docker network ls
+ 1982  docker images
+ 1983  docker ps
+ 1984  docker ps -a
+ 1985  sh network-create.sh 
+ 1986  screen -ls
+ 1987  screen -r docker-build 
+ 1988  screen -ls
+ 1989  screen -S docker-build
+ 1990  screen -ls
+ 1991  screen -r docker-build
+ 1992  pwd
+ 1993  screen -r docker-build
+ 1994  sudo su
+ 1995  ls
+ 1996  cd /
+ 1997  ls
+ 1998  cd home
+ 1999  ls
+ 2000  cd moses/
+ 2001  ls
+ 2002  cd test/
+ 2003  ls
+ 2004  cd prod_delta/
+ 2005  ls
+ 2006  docker ps
+ 2007  docker ps -a
+ 2008  docker images
+ 2009  docker volume ls
+ 2010  docker network ls
+ 2011  docker network inspect eforce_v2_prod_delta 
+ 2012  pwd
+ 2013  ls
+ 2014  cat network-create.sh 
+ 2015  ls
+ 2016  cat docker-down.sh 
+ 2017  cat docker-build.sh 
+ 2018  cat docker-build-no-cache.sh 
+ 2019  cat docker-up.sh
+ 2020  history
